@@ -1,0 +1,34 @@
+body {
+  overflow-y: scroll;
+  background: #f2f2f2 url(http://stuckincustoms.smugmug.com/Portfolio/i-6hhkCSR/0/X3/Night%20village-X3.jpg) 
+  repeat-y 50% 0;
+  padding-bottom: 75px;
+ }
+
+h1 {color: White; 
+	font-family: verdana; 
+	text-align: center;
+}
+form {text-align: center;
+	font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+	color: white;
+	border: #000 solid 1px;
+	border-radius: 8px;
+	margin: 100px;
+}
+.bootstrap {
+	width: 400px;
+
+}
+.container {
+  width: 800px;
+}
+.centered-input {
+	margin: 0 auto;
+	/*width: 30%;
+*/
+}
+.input-container {
+	width: 50%;
+}
+
